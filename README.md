@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevelopStudios
 - 👀 I’m interested in Front End Developement
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Projects that make a differnce
+- 💞️ I’m looking to collaborate on Projects that make a difference
 - 📫 How to reach me 
 Email: charlroux641@gmail.com
 
