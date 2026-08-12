@@ -4,7 +4,7 @@
     <p>
       <a href="https://charlportfolio.online">Portfolio</a> &nbsp;·&nbsp;
       <a href="https://www.linkedin.com/in/charl-roux-50b124122/">LinkedIn</a> &nbsp;·&nbsp;
-      charlroux641@gmail.com
+      charlit641@gmail.com
     </p>
   </div>
 
