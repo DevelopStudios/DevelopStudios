@@ -4,7 +4,7 @@
   <p>
     <a href="https://charlportfolio.online">Portfolio</a> &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/charl-roux-50b124122/">LinkedIn</a> &nbsp;·&nbsp;
-    charlit641@gmail.com
+    charlroux641@gmail.com
   </p>
 </div>
 
@@ -19,7 +19,7 @@ enterprise scale before that.
 
 ## DocLocal
 
-**[Live](https://doclocal-1bb7p.kinsta.page)** &nbsp;·&nbsp; **[Code](https://github.com/DevelopStudios/doclocal)**
+**[Live](https://domavel.com)**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
