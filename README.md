@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Charl Roux</h1>
-  <p>Senior AI Frontend Engineer &nbsp;·&nbsp; Michigan &nbsp;·&nbsp; Open to remote</p>
+  <p>Software Developer at Domavel &nbsp;·&nbsp; Ann Arbor, Michigan &nbsp;·&nbsp; Open to remote</p>
   <p>
     <a href="https://charlportfolio.online">Portfolio</a> &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/charl-roux-50b124122/">LinkedIn</a> &nbsp;·&nbsp;
@@ -10,8 +10,10 @@
 
 ---
 
-I build AI features end to end: the interface, the streaming and recovery behaviour, and the
-inference service behind it. Seven years shipping Angular platforms at enterprise scale before that.
+I'm a software developer at Domavel, a document AI app with RAG question answering and citations, PDF
+form filling and user accounts. I build AI features end to end: the interface, the streaming and recovery
+behaviour, and the inference service behind it. Nearly eight years shipping Angular platforms at
+enterprise scale before that.
 
 ---
 
