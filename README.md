@@ -17,7 +17,7 @@ enterprise scale before that.
 
 ---
 
-## DocLocal
+## Domavel
 
 **[Live](https://domavel.com)**
 
